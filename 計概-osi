@@ -24,7 +24,7 @@
 分為兩個子層：邏輯鏈路控制（logical link control，LLC）子層和媒介存取控制（Media access control，MAC）子層
 第一層-實體層(physical layer):
 在局部區域網路上傳送資料框（Data Frame），它負責管理電腦通訊裝置和網路媒體之間的互通。包括了針腳、電壓、線纜規範、集線器、中繼器、網卡、主機介面卡等。
-
+![image](https://github.com/shinyhekari/job1/blob/master/122160617_717938605475246_8423076789149240276_n.jpg)
 
 
 
